@@ -1,0 +1,5 @@
+{
+    "institution": "Institución",
+    "ninstitution": "{count,plural, =0{Sem instituciones} =1{{count} Instituciones} other{{count} Instituciones}}",
+    "family": "Familia"
+}
